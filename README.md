@@ -1,9 +1,9 @@
 # my-first-ANN
 A tic-tac-toe android game where the computer's AI is based on a pre-trained ANN, implemented in Java.
 
-The ANN is an implementation based on the coursera course of Andrew Ng (https://www.coursera.org/learn/machine-learning/home/welcome), using Java (as part of the android app).
+The ANN is an implementation based on the Coursera course of prof. Andrew Ng (https://www.coursera.org/learn/machine-learning/home/welcome), using Java (as part of the android app).
 
-Training was done using matlab (by https://github.com/aviadkl, code not provided), however the learning was not very successful (training set was not very good at the time, ~2015) so the AI is not particularly intelligent.
+Training was done using MATLAB (by https://github.com/aviadkl, code not provided), however the learning was not very successful (training set was not very good at the time, ~2015) so the AI is not particularly intelligent.
 
 Also, game appearance is not very impressive, because it was not the focus of this project.
 
